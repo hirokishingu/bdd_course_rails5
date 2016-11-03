@@ -1,4 +1,4 @@
-require 'rails_helpr'
+require 'rails_helper'
 
 RSpec.feature "Showing an article" do
   
